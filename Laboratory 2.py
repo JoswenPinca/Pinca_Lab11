@@ -1,5 +1,0 @@
-price1 = input("Enter the amount of the first purchase ")
-price2 = input("Enter the amount of the second purchase ")
-price3 = input("Enter the amount of the third purchase ")
-total = (price1 + price2 + price3)
-print(10:.2f)
